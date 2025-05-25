@@ -69,7 +69,7 @@ cout<<++a<<endl;
 cout<<b<<endl;
 cout<<++b<<endl;
 
-//post increament
+//post increament pakai dulu, tambah
 cout<<a<<endl;
 cout<<a++<<endl;
 cout<<a<<endl;
@@ -78,13 +78,13 @@ cout<<b<<endl;
 cout<<b++<<endl;
 cout<<b<<endl;
 
-//pre decreament
+//pre decreament kurangi dulu, pakai
 
 cout<<a<<endl;
 cout<<--a<endl;
 cout<<b<<endl;
 cout<<--b<<endl;
-//post decreament
+//post decreament pakai dulu, kurangi
 cout<<a<<endl;
 cout<<a--<<endl;
 cout<<a<<endl;
