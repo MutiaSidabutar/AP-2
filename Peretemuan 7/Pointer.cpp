@@ -24,7 +24,7 @@ int*pointer_number =&number;
 // cout<<"Alamar memori dari pointer_number="<<&pointer_number<<endl;
 // cout<<endl;
 
-//Pointer Operation
+//Pointer Operation //operasi yang dilakukan oleh pointer
 // *pointer_number = 25;
 // cout<<"isi variabel number="<<number<<endl;
 // cout<<"Alamat dari memori variabel number="<<&number<<endl;
@@ -33,7 +33,7 @@ int*pointer_number =&number;
 // cout<<"Alamar memori dari pointer_number="<<&pointer_number<<endl;
 // cout<<endl;
 
-//pointer in array
+//pointer in array //untuk memanipulasi elemen dalam sebuah pointer
 // int num[]={1,2,3,4,5};
 // int*pointer_num =num;
 // cout<<"isi variabel num="<<num[0]<<endl;
@@ -51,7 +51,7 @@ int*pointer_number =&number;
 // cout<<"Alamar memori dari pointer_num="<<&pointer_num<<endl;
 // cout<<endl;
 
-//pointer in parameter
+//pointer in parameter// alamat variabel dalam sebuah fungsi
 // int num1=5;
 // int num2=7;
 // penjumlahan(num1,num2);
@@ -61,7 +61,7 @@ int*pointer_number =&number;
 // cout<< num1<<endl;
 // cout<< num2 <<endl;
 
-//pointer in pointer
+//pointer in pointer// menyimpan alamat pointer lain
 // int score =4;
 // int *pointer_score =&score;
 // int **ptr_pointer_score= &pointer_score;//pointer in pointer
