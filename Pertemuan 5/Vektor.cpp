@@ -8,7 +8,7 @@ int main(){
     // Vektor  Declaration &intisialitation
 vector<string> nama_karyawan= {"Alya","parul","Syukron","Aurik","Dzakwan"};
 
-//ascending Element of vector
+//ascending Element of vector //mengurutkan secaara kecil ke besar
 // for (int i=0; i< nama_karyawan.size();i++){
 //     cout<<nama_karyawan[i]<<endl;
 
