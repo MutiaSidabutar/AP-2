@@ -3,11 +3,11 @@
 using namespace std;
 
 class contohakses{
-    private:
+    private: //bisa diakses mahasiswa itu sendiri
         int privateVar;
-    protected:
+    protected://class turunan ini yang bisa akses ke class protect
     int protectedVar;
-    public:
+    public://bisa diakses variable,dll
     int publicVar;
     //constructor
     contohakses(){
