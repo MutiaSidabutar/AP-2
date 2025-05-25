@@ -74,7 +74,7 @@ int main(){
 //     break;
 // }
 
-//switch range statement yang mendukung rentang nilai
+//switch range statement //yang mendukung rentang nilai
 // // switch range
     // switch (nilai) {
     //     case 85 ... 100 : cout << "A" endl; break;
@@ -86,7 +86,7 @@ int main(){
     //     default: cout << "E" << endl; 
     // }
 
-//ternary operator : operator kondisional singkat
+//ternary operator // operator kondisional singkat
 // if (nilai%2==0){
 
 // }else{
